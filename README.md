@@ -16,6 +16,7 @@
 * Spring Data JPA
 * Spring Boot Tymleaf
 * Spring AOP
+* Spring MyBatis
 
 #### Build tool
 * Gradle
