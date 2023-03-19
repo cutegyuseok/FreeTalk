@@ -9,7 +9,6 @@
 * IntelliJ
 * DBeaver
 * GitHub
-* MariaDB
 
 ## :books: 사용 기술
 ### 백엔드
@@ -26,6 +25,7 @@
 
 #### Database
 * MariaDB
+* Redis
 
 
 
